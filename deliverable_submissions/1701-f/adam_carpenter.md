@@ -9,6 +9,9 @@ https://www.turing.io/users/adamcarpenter86 - Profile will not presist, I have c
 
 Link to Flower Exercise using this template (you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):
 ### My Favorite People to Work With -
+  Creative and open minded people
+  Passionate but happy people, not too passionate that they loose their happiness or create a stressful environment
+  People that enjoy learning and aren't bitter
 
 ### My Values and Goals - 
   Work for a company whose CEO's goals and values align with my own.
